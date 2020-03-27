@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/bendman/soy-loader",
   "devDependencies": {
-    "node-libs-browser": "^0.5.0"
+    "node-libs-browser": "^2.2.1"
   },
   "peerDependencies": {
     "exports-loader": "^0.6.2",
