@@ -34,7 +34,7 @@
     "exports-loader": "^0.6.2",
     "loader-utils": "^0.2.7",
     "rimraf": "^2.3.4",
-    "soynode": "^0.7.5",
+    "soynode": "^2.1.0",
     "webpack": "^1.9.5"
   }
 }
