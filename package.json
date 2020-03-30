@@ -32,7 +32,7 @@
     "bluebird": "^2.9.25",
     "closure-templates": "^20141017.0.1",
     "exports-loader": "^0.6.2",
-    "loader-utils": "^0.2.7",
+    "loader-utils": "^2.0.0",
     "rimraf": "^2.3.4",
     "soynode": "^0.7.5",
     "webpack": "^1.9.5"
