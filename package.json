@@ -26,7 +26,7 @@
   },
   "peerDependencies": {
     "exports-loader": "^0.6.2",
-    "webpack": "^1.9.5"
+    "webpack": "^5.22.0"
   },
   "dependencies": {
     "bluebird": "^2.9.25",
@@ -35,6 +35,6 @@
     "loader-utils": "^0.2.7",
     "rimraf": "^2.3.4",
     "soynode": "^0.7.5",
-    "webpack": "^1.9.5"
+    "webpack": "^5.22.0"
   }
 }
